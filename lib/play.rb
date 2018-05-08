@@ -39,7 +39,7 @@ end
 
 def play(board)
   x = 9
-while x <== 0            
+while x <== 9            
    x -= 1
    puts "This loop will run #{x} more times"
 end
