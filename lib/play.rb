@@ -38,6 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  while turn >0
+  while turn <=9
   Puts "Go again"
+end
 
