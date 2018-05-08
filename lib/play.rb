@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  x = 9
+  
 while x <== 9            
    x -= 1
    puts "You have #{x} more turns"
