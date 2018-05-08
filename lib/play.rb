@@ -40,7 +40,10 @@ end
 def play(board)
   while turn 
   Puts "Go again"
-  
+  9.times do 
+   turn
+ end
+end
 end
   
 end
