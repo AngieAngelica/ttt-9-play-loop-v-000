@@ -38,5 +38,5 @@ end
 # Define your play method below
 
 def play(board)
-  while 
+  for turn in 1..9 
   
