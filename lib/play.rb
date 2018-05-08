@@ -38,7 +38,17 @@ end
 # Define your play method below
 
 play(board)
-
+def play(board)
+  turns = 3
+  counter = 0
+  loop do
+    counter = counter + 1
+    turn(board)
+    if counter >= turns
+      puts "Try again"
+    end
+  end
+end
 
 
 
