@@ -39,7 +39,7 @@ end
 
 def play(board)
   
-while x <== 9            
+while x <= 9            
    x -= 1
    puts "You have #{x} more turns"
 end
