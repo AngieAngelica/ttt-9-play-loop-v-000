@@ -38,5 +38,6 @@ end
 # Define your play method below
 
 def play(board)
-  for turn in 1..9 
+  for turn in 1..9 do
+    
   
