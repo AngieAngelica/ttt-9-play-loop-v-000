@@ -41,6 +41,7 @@ def play(board)
   while turn <=9
   Puts "Go again"
   turn=turn-1
+end
   
 end
 
