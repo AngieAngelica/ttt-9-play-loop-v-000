@@ -38,7 +38,9 @@ end
 # Define your play method below
 
 def play(board)
-  for turn in 1..9 do
-    puts "Hello this is turn #{turn}"
-  end
+  x = 9
+while x <== 0            
+   x -= 1
+   puts "This loop will run #{x} more times"
+end
   
