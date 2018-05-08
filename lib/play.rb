@@ -40,4 +40,5 @@ end
 def play(board)
   for turn in 1..9 do
     puts "Hello this is turn #{turn}"
+  end
   
