@@ -38,10 +38,6 @@ end
 # Define your play method below
 
 def play(board)
-  
-while turn
-x = 9
-while x > 0            
-   x -= 1
-   puts "You have #{x} more turns"
-end
+  while turn >0
+  Puts "Go again"
+
